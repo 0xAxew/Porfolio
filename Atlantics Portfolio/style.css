@@ -1,0 +1,8 @@
+.color {
+    width: 1500px;
+    height: 1000px;
+    overflow: hidden;
+  }
+  html {
+    background-color: bisque;
+  }
